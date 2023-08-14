@@ -1,3 +1,6 @@
 # Freelance_Task_1
 
-## Jen Task of converting multiple .txt files into standard format to be placed in SQL database
+**Task Owner** : Jen
+**Contract Number**  :1 
+**Task Description**  : Convert .txt files into standard format ot be placed in a database.
+
